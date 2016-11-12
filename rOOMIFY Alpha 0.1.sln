@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{13150580-D314-C513-6756-FC7CA286B3B6}") = "rOOMIFY Alpha 0.1", "Assembly-CSharp.csproj", "{138C162B-0C86-28E7-2774-C7EE6C02EB31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{138C162B-0C86-28E7-2774-C7EE6C02EB31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{138C162B-0C86-28E7-2774-C7EE6C02EB31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{138C162B-0C86-28E7-2774-C7EE6C02EB31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{138C162B-0C86-28E7-2774-C7EE6C02EB31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
